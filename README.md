@@ -1,4 +1,4 @@
-# Intrusion Detection in Internet Of Vechile
+# Intrusion Detection in Internet Of Vehicles
 
 <h3> Presentation : https://tinyurl.com/2p58pdy8 </h3>
 <h3> Research Paper : https://tinyurl.com/3p5buv6w </h3>
